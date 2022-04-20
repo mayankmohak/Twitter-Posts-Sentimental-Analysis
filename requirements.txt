@@ -1,0 +1,27 @@
+installed tweepy library in python
+
+
+Cridentials:
+API Key: xVvcKUGIGWqm92WNhRa66Dk3a
+
+API Key Secret: v13nOCqnfYoSTJvXzlIx5J8B8LZIWNJ8qZF3IYLpRzlNAC31Vm
+
+Bearer Token: AAAAAAAAAAAAAAAAAAAAABDHZAEAAAAA04PrFASUPMhROXRBzA7q8wxC8FE%3DVd6W4bLA9voGDa1bIJasrhkrBqBo3duXA33Rp1IHUaTQTUFsSA
+
+Access Token: 1106601677220569088-450coM34i6OFmgV1mogJutduwyjHwB
+
+Access Token Secret: LPW1awlr8ma2RCDFkp8kT4i3zwREtS8YCCLWMOoUGBTET
+
+Put this in drawbacks and show limitaion of tweets  
+                                        - 50 requests / 15 minutes, per app
+                                        - 1024 characters, 1000 streaming rules
+
+
+
+POSTMAN twitter session link.
+https://developer.twitter.com/en/products/twitter-api/academic-research
+https://www.youtube.com/watch?v=guHH51GDDI0
+
+
+Source of project
+https://www.youtube.com/channel/UCQlgFYF5ClqGnr-kaVyHQjg
